@@ -55,7 +55,12 @@ h2{
 	font-size: 30px;
 	list-style: none;
 	padding-left: center;
+	
 
+}
+
+.list-inline {
+	list-style-type: none;	
 }
 
 .container {

@@ -88,4 +88,11 @@ h2{
 }
 
 
+.button {
+ background-color: #b9a390;
+ padding: 15px 20px;
+ border-radius: 4px;
+}
 
+#intro p {
+	margin-bottom:40px;
